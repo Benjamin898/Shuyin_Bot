@@ -133,7 +133,7 @@ async def message_colours(ctx):
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity = discord.Streaming(name="🍣 Catando oshis -.-", url='https://www.twitch.tv/yashiwright'))
+    await bot.change_presence(activity = discord.Streaming(name="💫 Final Fantasy XIV -.-", url='https://www.twitch.tv/yashiwright'))
 
 
 ##############################
